@@ -1,0 +1,142 @@
+.images {
+    width: 40px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.search {
+    margin-left: 400px;
+    height: 30px;
+    width: 500px;
+    font-size: 15px;
+    padding: 0 10px 0 10px;
+    border: solid 1px rgb(194, 194, 194)
+}
+
+.search-button {
+    width: 50px;
+    height: 30px;
+}
+
+.header {
+    margin-top: 15px;
+}
+.heading {
+    margin-top: 10px;
+    float: left;
+}
+
+.heading1 {
+
+    text-decoration: none;
+    margin-left: 1700px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+   
+}
+.heading2 {
+
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+.icons {
+    
+    width: 20px;
+    height: auto;
+    margin-left: 20px;
+}
+.icons-set{
+    margin-left: 1700px;
+}
+
+.pic {
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+.left-section {
+    width: 12%;
+    height: 100%;
+    float: left;
+    font-size: small;
+}
+.text{
+    color: rgb(87, 87, 87);
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 14px
+}
+.policy {
+    margin-left: 10px;
+    color: rgb(185, 185, 185);
+    
+}
+
+.right-section {
+    float: left;
+    width: 1630px
+}
+body {
+    font-family: Roboto, Arial, sans-serif;
+    margin: 0
+}
+
+.topics {
+    margin-bottom: 20px;
+}
+
+.topics-buttons {
+    height: 30px;
+    width: auto;
+    border-radius: 13px;
+    border: 1px solid rgb(179, 179, 179);
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 14px
+}
+
+.videos {
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+
+.videos-text {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.videos-text-outer {
+    margin-top: 5px;
+    float: left;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.channel {
+    float: left;
+}
+
+.channel-image {
+    margin-top: 5px;
+    border-radius: 50%;
+}
+.channel-sub {
+    margin-top: 10px
+}
+.channel-image2 {
+    border-radius: 50%;
+    width: 25px;
+    margin-left: 15px
+}
+
